@@ -1,4 +1,4 @@
-package br.ne.pi.the.palm.rh.service;
+package br.ne.pi.the.palm.rh.service.reajuste;
 
 import java.math.BigDecimal;
 import java.util.List;
